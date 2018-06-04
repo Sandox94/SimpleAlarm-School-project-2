@@ -1,0 +1,54 @@
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+C:\Users\Shing\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+G:\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\IA2112 Project\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+C:\Users\ShingWai\Desktop\Prosjekt IA vår 2016\Program\Finish Connection To arduino use of CSharp\IA2112 SendAndRecive\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe.config
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.exe
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\bin\Debug\IA2112 SendAndRecive.pdb
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csprojResolveAssemblyReference.cache
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Form1.resources
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112_SendAndRecive.Properties.Resources.resources
+C:\Users\ShingWai\Desktop\IA2112 SendAndRecive\IA2112 SendAndRecive\obj\Debug\IA2112 SendAndRecive.csproj.GenerateResource.Cache

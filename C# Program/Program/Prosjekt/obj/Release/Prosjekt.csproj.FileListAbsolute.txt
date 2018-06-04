@@ -1,0 +1,9 @@
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\bin\Release\Prosjekt.exe.config
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\bin\Release\Prosjekt.exe
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\bin\Release\Prosjekt.pdb
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.Home.resources
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.Properties.Resources.resources
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.ServerConnect.resources
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.csproj.GenerateResource.Cache
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.exe
+C:\Users\oyvin\OneDrive\Skule\Bachelor IA\Programmering vidaregåande\Program\Prosjekt\Prosjekt\obj\Release\Prosjekt.pdb

@@ -1,0 +1,27 @@
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\bin\Debug\email2.exe.config
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\bin\Debug\email2.exe
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\bin\Debug\email2.pdb
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.csprojResolveAssemblyReference.cache
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.Form1.resources
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.Properties.Resources.resources
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.csproj.GenerateResource.Cache
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.exe
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Visual Studio\prosjekt\email2\email2\obj\Debug\email2.pdb
+C:\Users\Sander\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\bin\Debug\email2.exe.config
+C:\Users\Sander\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.exe
+C:\Users\Sander\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.pdb
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\bin\Debug\email2.exe.config
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.exe
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.pdb
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\bin\Debug\email2.exe
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\bin\Debug\email2.pdb
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.csprojResolveAssemblyReference.cache
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.Form1.resources
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.Properties.Resources.resources
+C:\Users\Sander\Documents\Hit\2\IA2112 Objektorientert programmering videregående\Prosjekt\email2\email2\obj\Debug\email2.csproj.GenerateResource.Cache
+C:\Users\Simen\Dropbox\Skole\HiT\Semester 2\Programmering\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\bin\Debug\email2.exe.config
+C:\Users\Simen\Dropbox\Skole\HiT\Semester 2\Programmering\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.exe
+C:\Users\Simen\Dropbox\Skole\HiT\Semester 2\Programmering\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.pdb
+C:\Users\oyvin\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\bin\Debug\email2.exe.config
+C:\Users\oyvin\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.exe
+C:\Users\oyvin\Dropbox\Prosjektoppgave IA2112 - 2016\C# Program\Email\email2\email2\obj\Debug\email2.pdb

@@ -1,0 +1,51 @@
+-- The following statements creates the database and tables for the Alarmsystem Database
+
+CREATE DATABASE Alarmsystem
+go
+
+USE Alarmsystem
+go
+
+CREATE TABLE SUBSCRIBER 
+(
+Email char (30),
+FirstName char(18) NOT NULL,
+LastName char(18) NOT NULL,
+Telephone int,
+CONSTRAINT PK_SUBSCRIBER PRIMARY KEY (Email)
+)
+
+CREATE TABLE TEMPERATURE
+(
+[Time] datetime,
+Temperature float NOT NULL,
+CONSTRAINT PK_TEMPERATURE PRIMARY KEY ([Time]) 
+)
+
+CREATE TABLE ALARMTYPE
+(
+Alarm char(30),
+Limit float,
+[Description] varchar(100),
+CONSTRAINT PK_ALARMTYPE PRIMARY KEY (Alarm)
+)
+
+CREATE TABLE ALARM
+(
+Alarm char(30),
+[Time] datetime,
+CONSTRAINT PK_ALARM PRIMARY KEY (Alarm, [Time]),
+CONSTRAINT FK_ALARMTYPE_ALARM FOREIGN KEY (Alarm)
+REFERENCES ALARMTYPE (Alarm)
+)
+
+CREATE TABLE SUBSCRIBESTO
+(
+Alarm char(30),
+Email char(30),
+CONSTRAINT PK_SUBSCRIBESTO PRIMARY KEY (Alarm, Email),
+CONSTRAINT FK_ALARMTYPE_SUBSCRIBESTO FOREIGN KEY (Alarm)
+REFERENCES ALARMTYPE (Alarm),
+CONSTRAINT FK_SUBSCRIBER_SUBSCRIBESTO FOREIGN KEY (Email)
+REFERENCES SUBSCRIBER (Email)
+)

@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Prosjekt.AdministrateSubscribers" Collapsed="true">
+    <Position X="5.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AECgVACAACAAAJBIAACAICQCAFBAAAAEgAAIAAAkACA=</HashCode>
+      <FileName>AdministrateSubscribers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.Alarm">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAABgAAAAAAAEAABAAAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmLowTemperature">
+    <Position X="11.75" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmLowTemperature.LowTemperatureEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAQEAACEAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmHighTemperature">
+    <Position X="16.25" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmHighTemperature.HighTemperatureEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAgQAAAAAAQAAAAAQAAAAEAEA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmMotion">
+    <Position X="7.25" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmMotion.MotionAlarmEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIAoAAAEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmNoCharge">
+    <Position X="14" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmNoCharge.PowerStatusChangedEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+      <Delegate Name="Prosjekt.AlarmNoCharge.NoChargeAlarmEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAEAABAAAAAAiAAQACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmLowBattery">
+    <Position X="18.5" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmLowBattery.LowBatteryAlarmEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAgAAAAEAAAAAAAAAAAAEAEAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.AlarmComFault">
+    <Position X="9.5" Y="3" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="Prosjekt.AlarmComFault.ComFaultAlarmEventhandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Alarm.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Alarm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Prosjekt.Home" Collapsed="true">
+    <Position X="21.75" Y="3.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AzaEBIBjCSYCAREBHjSAQEgCCEARDAkYFiEyBEQCAE0=</HashCode>
+      <FileName>Home.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

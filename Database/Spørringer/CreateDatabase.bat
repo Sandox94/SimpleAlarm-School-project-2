@@ -1,0 +1,1 @@
+SQLCMD -S %1 -E -w 166 -e -i CreateDatabase.sql -o CreateDatabase.log

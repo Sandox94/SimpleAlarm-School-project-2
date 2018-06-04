@@ -1,0 +1,7 @@
+Koden skal være ferdig. Se gjennom og si ifra vis det er noe galt som oppstår.
+
+1) For å få verdiene, bruk 3 region "Writing out results/ process data".
+
+2) Bruk 4 region for å få en event dersom continues check oppdager en alarm, mellom intervall tiden.
+
+Under klassen TimerControll, vil du finne tidsintervall funksjon hvor du kan endre på min eller sek.
